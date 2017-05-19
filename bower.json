@@ -1,0 +1,30 @@
+{
+  "name": "callstats-sipjs",
+  "description": "SIP.js interface for callstats.io",
+  "main": "lib/index.js",
+  "authors": [
+    "Dan Jenkins <dan@nimblea.pe>"
+  ],
+  "dependencies": {
+    "babel-runtime": "^6.18.0",
+    "debug": "2.3.0"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "csio",
+    "callstats-io",
+    "sipjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:callstats-io/callstats-sipjs.git"
+  },
+  "homepage": "https://github.com/callstats-io/callstats-sipjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
