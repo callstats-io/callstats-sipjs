@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "SIP.js interface for callstats.io",
   "authors": [
+    "Karthik BR <karthik@callstats.io>",
     "Dan Jenkins <dan@nimblea.pe>"
   ],
   "license": "UNLICENSED",
