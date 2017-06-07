@@ -3,6 +3,7 @@
   "description": "SIP.js interface for callstats.io",
   "main": "lib/index.js",
   "authors": [
+    "Karthik BR <karthik@callstats.io>",
     "Dan Jenkins <dan@nimblea.pe>"
   ],
   "dependencies": {
