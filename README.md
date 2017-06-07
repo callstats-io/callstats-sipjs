@@ -78,4 +78,4 @@ $ npm install -g gulpjs
 
 ## Authors
 
-Dan Jenkins at Nimble Ape Ltd (https://nimblea.pe).
+Karthik BR (https://callstats.io), Dan Jenkins at Nimble Ape Ltd (https://nimblea.pe).
