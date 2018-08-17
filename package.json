@@ -1,6 +1,6 @@
 {
   "name": "callstats-sipjs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "SIP.js interface for callstats.io",
   "authors": [
     "Karthik BR <karthik@callstats.io>",
@@ -10,9 +10,9 @@
   "main": "lib/index.js",
   "dependencies": {
     "babel-runtime": "^6.18.0",
-    "debug": "2.3.0"
+    "debug": "^3.1.0"
   },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git@github.com:callstats-io/callstats-sipjs.git"
   },
@@ -41,8 +41,8 @@
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^2.0.0",
     "gulp-util": "^3.0.7",
-    "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.7.0"
   }
 }

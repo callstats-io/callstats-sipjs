@@ -2,6 +2,15 @@
 
 [SIP.js](https://sipjs.com/) interface to [callstats.io](http://callstats.io/).
 
+##### Currently supported SIP.js library 
+
+- [x] Version 0.11.2 
+- [x] Version 0.11.1
+- [x] Version 0.11.0
+- [x] Version 0.10.0
+- [x] Version 0.7.8
+
+
 
 ## Install
 
