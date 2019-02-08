@@ -4,6 +4,9 @@
 
 ##### Currently supported SIP.js library 
 
+- [x] Version 0.13.1 
+- [x] Version 0.13.0 
+- [x] Version 0.12.0 
 - [x] Version 0.11.2 
 - [x] Version 0.11.1
 - [x] Version 0.11.0
