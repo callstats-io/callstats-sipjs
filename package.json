@@ -1,10 +1,11 @@
 {
   "name": "callstats-sipjs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "SIP.js interface for callstats.io",
   "authors": [
     "Karthik BR <karthik@callstats.io>",
-    "Dan Jenkins <dan@nimblea.pe>"
+    "Dan Jenkins <dan@nimblea.pe>",
+    "Pallab Gain <pallab@callstats.io>"
   ],
   "license": "UNLICENSED",
   "main": "lib/index.js",

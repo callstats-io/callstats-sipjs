@@ -4,7 +4,8 @@
   "main": "lib/index.js",
   "authors": [
     "Karthik BR <karthik@callstats.io>",
-    "Dan Jenkins <dan@nimblea.pe>"
+    "Dan Jenkins <dan@nimblea.pe>",
+    "Pallab Gain <pallab@callstats.io>"
   ],
   "dependencies": {
     "babel-runtime": "^6.18.0",
