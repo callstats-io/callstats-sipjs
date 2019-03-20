@@ -60,7 +60,7 @@ In `app.js`:
 var ua = new SIP.UA(config);
 
 // Run the callstats-sipjs library for this UA
-callstatssipjs(ua, AppID, AppSecret);
+var callStats = callstatssipjs(ua, AppID, AppSecret);
 ```
 
 
